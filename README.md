@@ -82,7 +82,7 @@ The objective of this project is to help aspiring Data Analysts understand curre
 
 (Add screenshots of your dashboard here.)
 
----
+#live demo(app link):https://projectjobanalyzernumpypandas-u2i8tpddrjyujgfhiz9jqb.streamlit.app/
 
 ## 👩‍💻 Author
 
