@@ -86,6 +86,6 @@ The objective of this project is to help aspiring Data Analysts understand curre
 
 ## 👩‍💻 Author
 
-**Pallavi Rajput**
+**Pallvi Rajput**
 
 GitHub: https://github.com/pallvirajput06
